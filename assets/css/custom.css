@@ -1,0 +1,21 @@
+.index, .proj {
+    color: white;
+    text-shadow: 2px 2px 3px #222222;
+    font-weight: bold;
+}
+
+.box-text{
+    background: rgba(7, 86, 164, 0.8);
+    padding: 20px;
+    border-radius: 5px;    
+    text-shadow: 0px 0px 0px #222222;
+}
+
+hr{
+    border-color: #222222;
+    border-width: 1px 0px 0px;
+}
+
+.blacknav{
+    background-color: black;
+}
