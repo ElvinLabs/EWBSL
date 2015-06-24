@@ -19,3 +19,87 @@ hr{
 .blacknav{
     background-color: black;
 }
+
+
+
+@media (min-width: 1200px){
+
+.portfolio-item {
+        margin-bottom: 25px;
+        height: 330px;
+    
+    }
+
+}
+
+
+@media (max-width: 1200px) {
+
+    .portfolio-item p{
+        font-size: 85%;
+    }
+    
+    .portfolio-item h4{
+    font-size: 110%;
+    }
+    
+    .portfolio-item {
+        margin-bottom: 25px;
+        height: 290px;
+    
+    }
+
+}
+
+
+@media (max-width: 993px){
+
+   .portfolio-item p{
+        font-size: 85%;
+    }
+    
+    .portfolio-item h4{
+    font-size: 120%;
+    }
+    
+    .portfolio-item {
+        margin-bottom: 25px;
+        height: 350px;
+    
+    }
+
+
+
+}
+
+
+
+@media (max-width: 767px){
+
+   .portfolio-item p{
+        font-size: 85%;
+    }
+    
+    .portfolio-item h4{
+    font-size: 120%;
+    }
+    
+    .portfolio-item {
+        margin-bottom: 25px;
+        height: 500px;
+    
+    }
+    
+    
+    
+
+}
+
+
+.portfolio-item a img{
+
+    width: 60%;
+    align-items: center;
+    
+}
+
